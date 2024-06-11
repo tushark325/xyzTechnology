@@ -1,9 +1,0 @@
-class abc
-{
-	public static 
-	{
-		
-	}
-}
-
-
